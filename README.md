@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💻 Skills
 
-<!--
-**adamstruzyk/adamstruzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
+</div>
 
-Here are some ideas to get you started:
+# 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am a **Computer Engineering student** who likes to code from time to time.  
