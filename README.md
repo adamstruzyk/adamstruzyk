@@ -1,3 +1,7 @@
+# 👤 About Me
+
+🎓 I am a **Computer Engineering student** who likes to code from time to time.  
+
 # 💻 Skills
 
 <div>
@@ -11,6 +15,3 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
 </div>
 
-# 👤 About Me
-
-🎓 I am a **Computer Engineering student** who likes to code from time to time.  
